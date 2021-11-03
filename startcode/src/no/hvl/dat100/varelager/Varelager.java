@@ -61,8 +61,5 @@ public class Varelager {
 		System.out.println(SEP);
 
 	}
-	public int getLength() {
-		return antall;
-	}
 	
 }
